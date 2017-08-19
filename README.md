@@ -1,3 +1,3 @@
 # hello-world
-My first repo
+This is just my first repository on Github
 # Just added a readme file for support information.
